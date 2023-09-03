@@ -1,0 +1,33 @@
+.container {
+    margin: 10px 10px 30px 10px ;
+    border: 10px solid purple;
+    background-color: blue;
+    padding: 10px 10px;
+    }
+
+.first-box {
+    color: yellow;
+    padding-left: 10px;
+}
+
+.first-inner-box {
+    color: antiquewhite;
+    background-color: red;
+    padding-left: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.second-box {
+    color: yellow;
+    padding-left: 10px;
+    padding-top: 19px;
+}
+
+.second-inner-box {
+    color: antiquewhite;
+    background-color: red;
+    padding-left: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
